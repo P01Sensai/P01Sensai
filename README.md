@@ -15,7 +15,6 @@ I am a Bachelor of Engineering student specializing in IoT and Computer Science.
 | **Core Concepts** | Data Structures & Algorithms (DSA), OOP |
 
 ---
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/P01Sensai?ext=heatmap)
 
 ### 📫 How to Reach Me
 
