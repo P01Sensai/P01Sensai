@@ -6,14 +6,11 @@ I am a Bachelor of Engineering student specializing in IoT and Computer Science.
 
 ### 🛠️ Languages & Tools
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | C++, JavaScript, TypeScript |
-| **Frameworks** | React Native, React.js, Flutter |
-| **Styling** | Tailwind CSS, HTML, CSS |
-| **Backend & Cloud** | Firebase, AWS, SQL |
-| **Core Concepts** | Data Structures & Algorithms (DSA), OOP |
-
+* **Languages:** C++, JavaScript, TypeScript
+* **Frameworks:** React Native, React.js, Flutter
+* **Styling:** Tailwind CSS, HTML, CSS
+* **Backend & Cloud:** Firebase, AWS, SQL
+* **Core Concepts:** Data Structures & Algorithms (DSA), OOP
 ---
 
 ### 📫 How to Reach Me
