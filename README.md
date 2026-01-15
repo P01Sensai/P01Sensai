@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pramanshu Prajapati! 👋
 
-<!--
-**P01Sensai/P01Sensai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[cite_start]I am a Bachelor of Engineering student specializing in IoT and Computer Science[cite: 6]. [cite_start]I have a strong technical foundation and a passion for software development, with a focus on problem-solving and innovation[cite: 6, 7].
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]C++, JavaScript, TypeScript [cite: 9] |
+| **Frameworks** | [cite_start]React Native, React.js, Flutter [cite: 10] |
+| **Styling** | [cite_start]Tailwind CSS, HTML, CSS [cite: 10] |
+| **Backend & Cloud** | [cite_start]Firebase, AWS, SQL [cite: 10] |
+| **Core Concepts** | [cite_start]Data Structures & Algorithms (DSA), OOP [cite: 10] |
+
+---
+
+### 📫 How to Reach Me
+
+* [cite_start]**LinkedIn:** [pramanshu-prajapati](https://www.linkedin.com/in/pramanshu-prajapati/) [cite: 4]
+* [cite_start]**Email:** pramanshuprajapati@gmail.com [cite: 2]
