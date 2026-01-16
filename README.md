@@ -13,6 +13,8 @@ I am a Bachelor of Engineering student specializing in IoT and Computer Science.
 * **Core Concepts:** Data Structures & Algorithms (DSA), OOP
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=P01Sensai&style=flat-square&color=blue)
+
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [pramanshu-prajapati](https://www.linkedin.com/in/pramanshu-prajapati/)
